@@ -50,10 +50,10 @@ a {
   margin-bottom: 18px;
 }
 
-a:hover {
+.link-medium:hover {
   text-decoration: none;
-  background-image: linear-gradient(to bottom, rgb(233, 253, 240), rgb(233, 253, 240));
   color:#636363;
+  background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1))
 }
 
 .banner p {
